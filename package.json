@@ -1,0 +1,18 @@
+{
+  "name": "newegg-shuffle",
+  "version": "1.2.0",
+  "description": "Easily get information from the Newegg Shuffle API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "newegg"
+  ],
+  "author": "goodin",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2"
+  }
+}
