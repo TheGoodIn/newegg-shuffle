@@ -1,6 +1,6 @@
 {
   "name": "newegg-shuffle",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Easily get information from the Newegg Shuffle API",
   "main": "index.js",
   "scripts": {
@@ -14,5 +14,13 @@
   "dependencies": {
     "node-fetch": "^2.6.1",
     "request": "^2.88.2"
-  }
+  },
+
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/TheGoodIn/newegg-shuffle.git"
+    }
+
+  
 }
+

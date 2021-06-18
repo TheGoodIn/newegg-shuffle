@@ -4,7 +4,7 @@ const magicString = () => {
 };
 
 
-const shuffle = async () => {
+const getshuffle = async () => {
     const date = new Date().toISOString();
 
     var stock = [];
@@ -31,5 +31,5 @@ const shuffle = async () => {
         }
 module.exports = {
     magicString,
-    shuffle
+    getshuffle
 };
