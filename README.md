@@ -56,8 +56,10 @@ All Information in API is provided directly from Newegg Shuffle Endpoint. ```new
 
 
 
-<img src="https://cdn.discordapp.com/attachments/837913401048563722/854944011273240586/logofinal.png" align="center" style="width: 10%" />
  
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+<img src="https://cdn.discordapp.com/attachments/837913401048563722/854944011273240586/logofinal.png" align="center" style="width: 10%" />
+
